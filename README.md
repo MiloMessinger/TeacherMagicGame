@@ -14,7 +14,7 @@ Audience: The intended audience is Harvard-Westlake upper schoolers, as they wou
 
 ## Game Play
 
-Gameplay is designed to be fast and exciting. Attacks are not designed to instant kill, with users having longer fights with each other. When users meet, there should be a flurry of abilities used by both in attempts to eliminate each other. 
+Gameplay is designed to be fast and exciting. Attacks are not designed to instant kill, with users having longer fights with each other. When users meet, there should be a flurry of abilities used by both in attempts to eliminate each other. Players have 100 health, and there will be cooldowns (most of the time fractions of a second) on abilities to prevent matches from being decided by CPS. 
 
 ## Gamemodes
 
@@ -29,7 +29,10 @@ Five rounds of no respawn matches, teams win rounds by eliminating all other opp
 
 ## Playable Characters
 
-Each department has two primary abililities, with specific teachers having 1 to 2 unique abilities. The unqiue abilities are designed to be much stronger than the generic abilities.
+Each department has a few primary abililities, with specific teachers having 1 to 2 unique abilities. The unqiue abilities are designed to be much stronger than the generic abilities.
+
+*DEV NOTE: MOST OF THESE WILL BE DECIDED AS A CLASS*
+*DEV NOTE: CONSTANT BALANCE CHANGES WILL LIKELY NEED TO BE MADE THROUGHOUT THE DEVELOPMENT PROCESS*
 
 ### Math
 
@@ -40,6 +43,26 @@ Each department has two primary abililities, with specific teachers having 1 to 
 ### History
 
 ### Computer Science
+
+
+
+**DEV NOTE: This is an example department and may or may not exist in the real game**
+
+### Music Department
+Ability 1: Sound of Music
+- Shoots musical notes following the mouse direction that deals 5 damage (0.5s cooldown)
+Ability 2: Not quite my tempo
+- Buffs movmeent speed by 1.25x
+
+**Teacher 1: Dr. Sulivan**
+Special Ability: Jazz Solo
+- Removes the cooldown on sound of music, makes it shoot automatically, but makes it deal 2.5 damage (5 seconds ability, 30 second cooldown)
+Special Ability: Mezzo Piano
+- Makes user invisible unless you are within 10 units (about half the screen) away or if the player moves. (30 second cooldown)
+
+**Teacher 2: Mrs. Nikolaeva**
+Special Ability: Crescendo
+- Deals damage to anyone within 10 units (30 second cooldown)
 
 ---
 
