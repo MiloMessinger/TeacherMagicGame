@@ -49,18 +49,23 @@ Each department has a few primary abililities, with specific teachers having 1 t
 **DEV NOTE: This is an example department and may or may not exist in the real game**
 
 ### Music Department
+
 Ability 1: Sound of Music
 - Shoots musical notes following the mouse direction that deals 5 damage (0.5s cooldown)
+
 Ability 2: Not quite my tempo
 - Buffs movmeent speed by 1.25x
 
 **Teacher 1: Dr. Sulivan**
+
 Special Ability: Jazz Solo
 - Removes the cooldown on sound of music, makes it shoot automatically, but makes it deal 2.5 damage (5 seconds ability, 30 second cooldown)
+
 Special Ability: Mezzo Piano
 - Makes user invisible unless you are within 10 units (about half the screen) away or if the player moves. (30 second cooldown)
 
 **Teacher 2: Mrs. Nikolaeva**
+
 Special Ability: Crescendo
 - Deals damage to anyone within 10 units (30 second cooldown)
 
